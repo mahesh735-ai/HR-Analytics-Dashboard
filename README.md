@@ -17,7 +17,9 @@ This Power BI dashboard analyzes **employee attrition** to help HR teams underst
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](./screenshots/dashboard_preview.png)
+> 📌 **Click on the image to view full size**
+
+[![HR Analytics Dashboard](screenshots/dashboard_preview.png)](screenshots/dashboard_preview.png)
 
 ---
 
@@ -88,11 +90,11 @@ Attrition Rate = SUM([Attrition Count]) / SUM([Employee Count])
 
 ## 💡 Business Recommendations
 
-1. **Improve salary** for employees earning below 5K  
-2. **Strengthen onboarding** and engagement in first 1–2 years  
-3. **Reduce workload pressure** for Laboratory Technicians and Sales Executives  
-4. **Provide career growth** paths for employees aged 26–35  
-5. Implement **retention programs** targeted at Life Sciences background employees  
+1. **Improve salary** for employees earning below 5K
+2. **Strengthen onboarding** and engagement in first 1–2 years
+3. **Reduce workload pressure** for Laboratory Technicians and Sales Executives
+4. **Provide career growth** paths for employees aged 26–35
+5. Implement **retention programs** targeted at Life Sciences background employees
 
 ---
 
@@ -109,10 +111,10 @@ Attrition Rate = SUM([Attrition Count]) / SUM([Employee Count])
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel** — Data exploration & Pivot analysis  
-- **Power BI Desktop** — Transformation, DAX, Dashboard creation  
-- **Power Query** — Data cleaning & column operations  
-- **DAX** — KPI & Attrition Rate calculation  
+- **Microsoft Excel** — Data exploration & Pivot analysis
+- **Power BI Desktop** — Transformation, DAX, Dashboard creation
+- **Power Query** — Data cleaning & column operations
+- **DAX** — KPI & Attrition Rate calculation
 
 ---
 
@@ -122,18 +124,18 @@ Attrition Rate = SUM([Attrition Count]) / SUM([Employee Count])
 HR-Analytics-Dashboard/
 │
 ├── dataset/
-│   └── HR_Analytics.csv
+│   └── HR_Analytics.csv                     # Source dataset
 │
 ├── dashboard/
-│   └── HR_Analytics_Dashboard.pbix
+│   └── HR_Analytics_Dashboard.pbix          # Power BI file
 │
 ├── screenshots/
-│   └── dashboard_preview.png
+│   └── dashboard_preview.png                # Dashboard screenshot
 │
 ├── documentation/
-│   └── HR_Analytics_Documentation.docx
+│   └── HR_Analytics_Documentation.docx      # Full project notes
 │
-└── README.md
+└── README.md                                # Project overview
 ```
 
 ---
@@ -148,10 +150,9 @@ By acting on these insights, HR teams can reduce attrition, improve satisfaction
 
 ## 👤 Author
 
-**Mahesh Thakare**
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mahesh-thakare-75817b2a7  
-- 🐙 GitHub: https://github.com/mahesh735-ai  
+**Mahesh**
+- 💼 LinkedIn: [Mahesh Thakare](https://www.linkedin.com/in/mahesh-thakare-75817b2a7)
+- 🐙 GitHub: [mahesh735-ai](https://github.com/mahesh735-ai)
 
 ---
 
