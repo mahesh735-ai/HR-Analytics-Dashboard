@@ -17,7 +17,7 @@ This Power BI dashboard analyzes **employee attrition** to help HR teams underst
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/dashboard_preview.png)
+![HR Analytics Dashboard](file:///C:/Users/mahes/Pictures/Screenshots/Screenshot%20_HR_Analytics_Dashboard.png)
 
 ---
 
